@@ -1,0 +1,5 @@
+https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statement-type-rate-based.html
+
+1.Rate based rule - tracks number of requests per IP address - limit can be set for IPaddress. so that it will not allow once requests reached its limit
+2.Ip set match rule - it matches incoming IP address with a set of defined IP addresses
+
